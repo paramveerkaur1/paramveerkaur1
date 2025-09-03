@@ -1,6 +1,3 @@
-## 👩‍💻 Hi, I'm Paramveer Kaur! 
-**Data Scientist | AI & ML Enthusiast | Ex-Infosys | MBA (Data Science & AI)**
-
 ### 🔍 About Me
 🎓 Pursuing MBA in Data Science & AI from Chandigarh University, 2024-26 (CGPA: 9.26/10)\
 👩‍🎓 Completed B.Tech. Computer Engineering, Punjabi University, 2012-16 (CGPA: 8.52/10)\
