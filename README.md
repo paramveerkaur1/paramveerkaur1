@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/d2d9ec5d-da16-4058-abe1-50f03c730506)
+
 ### 🔍 About Me
 🎓 Pursuing MBA in Data Science & AI from Chandigarh University, 2024-26 (CGPA: 9.26/10)\
 👩‍🎓 Completed B.Tech. Computer Engineering, Punjabi University, 2012-16 (CGPA: 8.52/10)\
