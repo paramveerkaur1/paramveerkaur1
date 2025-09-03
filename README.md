@@ -1,0 +1,22 @@
+## 👩‍💻 Hi, I'm Paramveer Kaur! 
+**Data Scientist | AI & ML Enthusiast | Ex-Infosys | MBA (Data Science & AI)**
+
+### 🔍 About Me
+🎓 Pursuing MBA in Data Science & AI from Chandigarh University, 2024-26 (CGPA: 9.26/10)\
+👩‍🎓 Completed B.Tech. Computer Engineering, Punjabi University, 2012-16 (CGPA: 8.52/10)\
+💼 7+ years at Infosys, 2016-2024 (Technology Architect, Technology Lead, Software Developer)\
+🤖 Experienced in Machine Learning, Data Analysis, Data Science and Data Visualization\
+♟️ Proficient in Python, SQL, SAS, Angular, Product Development, ML libraries (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn)\
+🏆 Achievements: Apexathon SAS Hackathon (2nd Runner-up), Infosys Inspire Award for Most Valuable Player\
+📈 Interested in AI-powered business solutions, NLP, and Deep Learning\
+💡 Love turning raw data into stories, strategies, and smarter decisions
+
+### 📲 Connect with Me 
+
+I’m passionate about building AI-powered solutions and leveraging machine learning, data science, and software engineering expertise to solve real-world problems. If our interests align, please reach out to me at:\
+\
+📧 [Email](14paramveer@gmail.com)\
+🪪 [LinkedIn](https://www.linkedin.com/in/paramveerkaur/)
+
+
+
