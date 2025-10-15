@@ -14,8 +14,7 @@
 
 I’m passionate about building AI-powered solutions and leveraging machine learning, data science, and software engineering expertise to solve real-world problems. If our interests align, please reach out to me at:\
 \
-📧 [Email](14paramveer@gmail.com)\
-🪪 [LinkedIn](https://www.linkedin.com/in/paramveerkaur/)
-🧠 [Kaggle](https://www.kaggle.com/paramveerkaur)
-
+🪪 [LinkedIn](https://www.linkedin.com/in/paramveerkaur/)\
+🧠 [Kaggle](https://www.kaggle.com/paramveerkaur)\
+📧 [Email](14paramveer@gmail.com)
 
