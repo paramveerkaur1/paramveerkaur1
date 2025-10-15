@@ -16,6 +16,6 @@ I’m passionate about building AI-powered solutions and leveraging machine lear
 \
 📧 [Email](14paramveer@gmail.com)\
 🪪 [LinkedIn](https://www.linkedin.com/in/paramveerkaur/)
-
+🧠 [Kaggle](https://www.kaggle.com/paramveerkaur)
 
 
